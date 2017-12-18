@@ -1,4 +1,4 @@
-# discord
+# About the file
 
 Simple method to change font colors in Discors for good readability in chats. These font colors are ideal for work correspondence, not for games.
 
