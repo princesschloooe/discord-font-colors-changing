@@ -1,30 +1,30 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption&subset=cyrillic');
 
 .channel-textarea-inner textarea{
-    color:#000;
+    color:#A889E0;
     font-size: 14;
     font-family: 'PT Sans Caption', sans-serif;
 }
 
 .message-group .comment .markup{
-    color: #353535;
+    color: #A889E0;
     font-size: 14px;
     font-family: 'PT Sans Caption', sans-serif;
 }
 
 input, textarea {
-    color: #111!Important;
+    color: #A889E0!Important;
     font-size: 14px!Important;
     font-weight: 400!Important;
     font-family: 'PT Sans Caption', sans-serif!Important;
 }
 
 textarea::-webkit-input-placeholder {
-    color: #6f6d6d!Important;
+    color: #A889E0!Important;
     font-size: 14px!Important;
     font-family: 'PT Sans Caption', sans-serif!Important;
 }
 
 .message-group h2 .timestamp {
-    color: #6a6b6b;
+    color: #A889E0;
 }
